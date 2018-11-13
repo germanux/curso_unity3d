@@ -62,7 +62,6 @@ StyleCopReport.xml
 *_p.c
 *_i.h
 *.ilk
-*.meta
 *.obj
 *.iobj
 *.pch
@@ -328,3 +327,11 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+#Unity 3D:
+Library/
+obj/
+Temp/
+*.sln
+*.csproj
+.vscode/
