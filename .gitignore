@@ -335,3 +335,5 @@ Temp/
 *.sln
 *.csproj
 .vscode/
+/Proyecto_2D_Curso_U3D/Assets/Recursos_Naves/Spaceship Fighter Spear XB/Textures/spaceship_fighter_spear.psd.meta
+/Proyecto_2D_Curso_U3D/Assets/Recursos_Naves/Spaceship Fighter Spear XB/Textures/spaceship_fighter_spear.psd

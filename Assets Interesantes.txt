@@ -1,0 +1,26 @@
+Asset Store:
+Space Graphics Basic Pack
+SF IMPERIAL Corvette F3
+Spaceship - Spear XB
+Save scenes
+easy UI emerald -
+GitHub for Unity
+Action Box
+Pack Gesta Furniture 
+Modern man
+Particle effects 1
+Seamless Textures (Realistic)
+Nature Starter Kit 2
+Hand Painted Grass Texture
+Realistic Tree 9 [Rainbow Tree]
+
+VRTK - Virtual Reality Toolkit:
+	https://www.youtube.com/channel/UCWRk-LEMUNoZxUmY1wO7DBQ
+iTween
+Entitas
+Language Localization
+ProBuilder
+TextMesh Pro
+Cinemachine
+2D Game Kit
+2D Breakout Example Project
