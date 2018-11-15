@@ -2,6 +2,7 @@ Asset Store:
 Space Graphics Basic Pack
 SF IMPERIAL Corvette F3
 Spaceship - Spear XB
+
 Save scenes
 easy UI emerald -
 GitHub for Unity
@@ -13,7 +14,7 @@ Seamless Textures (Realistic)
 Nature Starter Kit 2
 Hand Painted Grass Texture
 Realistic Tree 9 [Rainbow Tree]
-
+AR Vuforia
 VRTK - Virtual Reality Toolkit:
 	https://www.youtube.com/channel/UCWRk-LEMUNoZxUmY1wO7DBQ
 iTween

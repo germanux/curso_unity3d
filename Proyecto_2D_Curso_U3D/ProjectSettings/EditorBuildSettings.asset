@@ -6,12 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/0_Inicio.unity
+    path: Assets/_Curso_U3D/Scenes/0_Inicio.unity
     guid: 0e9f89980604e5544b710538ae5551e6
   - enabled: 1
-    path: Assets/Scenes/1_Menu.unity
+    path: Assets/_Curso_U3D/Scenes/1_Menu.unity
     guid: b4b17c5d2af8f404c9f15787ddfe9e5f
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/_Curso_U3D/Scenes/2_SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/_Curso_U3D/Scenes/3_GameObjects.unity
+    guid: ec17a9912223e8748921662f6f6efe44
+  - enabled: 1
+    path: Assets/_Curso_U3D/Scenes/4_JuegoNaves.unity
+    guid: 429bbf42b2dbf874e841c5bb467587cb
+  - enabled: 1
+    path: Assets/_Curso_U3D/Scenes/5_Terrain_Luces.unity
+    guid: a0775d3c1d1c2d146afc5cb767e3bd66
   m_configObjects: {}

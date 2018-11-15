@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ComprobandoColision : MonoBehaviour {
-    
+public class ComprobandoColision : MonoBehaviour {    
     public static int maxCubes;
 
     private void OnCollisionEnter(Collision collision)
@@ -12,7 +11,7 @@ public class ComprobandoColision : MonoBehaviour {
             return;
         GameObject gObj = collision.gameObject;
         Debug.Log("Colision: " + gObj.name);
-        if (gameObject.name.Contains("Plane") && gObj.name.Contains("Cube"))
+        if (this.gameObject.name.Contains("Plane") && gObj.name.Contains("Cube"))
         {
             GameObject go = Instantiate<GameObject>(gObj);
             go.transform.position = new Vector3(
@@ -23,6 +22,9 @@ public class ComprobandoColision : MonoBehaviour {
                 gObj.transform.position.x + Random.Range(2, 3),
                 gObj.transform.position.y + Random.Range(6, 12),
                 gObj.transform.position.z - Random.Range(2, 3));
+
+            Destroy(go, 5);
         }
     }
+
 }
